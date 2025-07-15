@@ -1,0 +1,7 @@
+MIT License
+
+Copyright (c) 2025 <Tu Nombre o Empresa>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+...
+(pon aquí el texto completo de la licencia MIT; puedes copiarlo de https://opensource.org/licenses/MIT)
