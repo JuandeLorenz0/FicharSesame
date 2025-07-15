@@ -55,7 +55,7 @@ FicharSesame es una aplicación en Python que combina un bot de Telegram, un end
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/<tu-usuario>/FicharSesame.git
+   git clone https://github.com/JuandeLorenz0/FicharSesame.git
    cd FicharSesame
    ```
 
